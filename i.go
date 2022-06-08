@@ -11,6 +11,6 @@ func Pipi() {
 	fmt.Printf("Zopa")
 }
 
-func Titi() {
+func Kiti() {
 	fmt.Printf("Titi")
 }
