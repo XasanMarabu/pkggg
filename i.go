@@ -14,3 +14,7 @@ func Pipi() {
 func Kiti() {
 	fmt.Printf("Titi")
 }
+
+func Fuck() {
+	fmt.Printf("FuckOF!!!!!!!!!!!!")
+}
